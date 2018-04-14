@@ -12,7 +12,4 @@
   <codeStyleSettings language="Properties">
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
   </codeStyleSettings>
-  <codeStyleSettings language="Python">
-    <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
-  </codeStyleSettings>
 </code_scheme>
