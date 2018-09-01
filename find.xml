@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Scope1" />
-    <option name="defaultScopeName" value="Scope1" />
+    <option name="customScope" value="Scope2 = test" />
+    <option name="defaultScopeName" value="Scope2 = test" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Scope1" />
+    <option name="SEARCH_SCOPE" value="Scope2 = test" />
   </component>
 </application>
