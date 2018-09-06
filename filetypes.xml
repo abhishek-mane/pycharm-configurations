@@ -15,12 +15,13 @@
       <mapping pattern="temp" type="DBN-SQL" />
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern="hcl" type="PLAIN_TEXT" />
+      <mapping pattern="qw" type="PLAIN_TEXT" />
       <mapping pattern="t" type="PLAIN_TEXT" />
       <mapping pattern="ips" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
       <mapping pattern="tmo" type="PLAIN_TEXT" />
-      <mapping pattern="qw" type="PLAIN_TEXT" />
+      <mapping pattern="hcl" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
