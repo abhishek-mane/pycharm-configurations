@@ -41,7 +41,6 @@
   <Python>
     <option name="OPTIMIZE_IMPORTS_SORT_IMPORTS" value="false" />
     <option name="OPTIMIZE_IMPORTS_SORT_BY_TYPE_FIRST" value="false" />
-    <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
     <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
   </Python>
   <DBN-SQL>
