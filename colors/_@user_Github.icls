@@ -4,11 +4,11 @@
     <property name="created">2018-04-09T22:12:25</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2018-09-25T10:57:44</property>
+    <property name="modified">2018-09-26T10:15:26</property>
     <property name="originalScheme">Github</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="18" />
+  <option name="EDITOR_FONT_SIZE" value="15" />
   <option name="EDITOR_FONT_NAME" value="Consolas" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
