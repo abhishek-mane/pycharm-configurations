@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube.gravitant.net" />
+          <token>dfc8df92df99df9bdf9edf9cdfc9df98df9adfccdfccdfcbdf9cdf9adfc8dfcbdf9fdfcbdf98dfcbdf93df99df99df93df93dfc8df9adfcfdf9edf9fdf99df92df99df92df92df9adfc8dfcedf99df93</token>
+          <option name="name" value="sonarqube.gravitant.net" />
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
