@@ -10,9 +10,9 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="t" type="PLAIN_TEXT" />
       <mapping pattern="tmo" type="PLAIN_TEXT" />
-      <mapping pattern="temp_pytest_commands" type="PLAIN_TEXT" />
-      <mapping pattern="hcl" type="PLAIN_TEXT" />
       <mapping pattern="ips" type="PLAIN_TEXT" />
+      <mapping pattern="hcl" type="PLAIN_TEXT" />
+      <mapping pattern="temp_pytest_commands" type="PLAIN_TEXT" />
       <mapping pattern="qw" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
@@ -22,6 +22,7 @@
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping pattern="neon2" type="Python" />
       <removed_mapping ext="env" approved="true" type=".env file" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
