@@ -4,15 +4,16 @@
     <extensionMap>
       <removed_mapping ext="env" approved="true" type=".env file" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
+      <mapping pattern="coveragerc" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="npmrc" type="PLAIN_TEXT" />
       <mapping pattern="plan" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="t" type="PLAIN_TEXT" />
       <mapping pattern="tmo" type="PLAIN_TEXT" />
-      <mapping pattern="ips" type="PLAIN_TEXT" />
-      <mapping pattern="hcl" type="PLAIN_TEXT" />
       <mapping pattern="temp_pytest_commands" type="PLAIN_TEXT" />
+      <mapping pattern="hcl" type="PLAIN_TEXT" />
+      <mapping pattern="ips" type="PLAIN_TEXT" />
       <mapping pattern="qw" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
