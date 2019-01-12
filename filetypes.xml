@@ -19,6 +19,7 @@
       <mapping pattern="Dockerfile-slim" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
+      <mapping ext="alpine" type="PLAIN_TEXT" />
       <mapping ext="extract" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
