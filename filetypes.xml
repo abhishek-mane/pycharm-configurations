@@ -3,6 +3,7 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <removed_mapping ext="env" approved="true" type=".env file" />
+      <mapping ext="local" type="Dockerfile" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern="coveragerc" type="PLAIN_TEXT" />
       <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
@@ -12,9 +13,9 @@
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="t" type="PLAIN_TEXT" />
       <mapping pattern="tmo" type="PLAIN_TEXT" />
-      <mapping pattern="temp_pytest_commands" type="PLAIN_TEXT" />
-      <mapping pattern="hcl" type="PLAIN_TEXT" />
       <mapping pattern="ips" type="PLAIN_TEXT" />
+      <mapping pattern="hcl" type="PLAIN_TEXT" />
+      <mapping pattern="temp_pytest_commands" type="PLAIN_TEXT" />
       <mapping pattern="qw" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-slim" type="PLAIN_TEXT" />
